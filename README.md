@@ -1,6 +1,6 @@
 # Regex Script
 
-This script can identify "bad" rows in a dataset based on regex from the python-database-sanitizer library. This can help narrow down issues with the data failing to be sanitized.
+This script can identify "bad" rows in a dataset based on regex from the [python-database-sanitizer](https://github.com/andersinno/python-database-sanitizer) library. This can help narrow down issues with the data failing to be sanitized.
 
 # How to Run
 
