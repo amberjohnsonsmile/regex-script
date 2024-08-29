@@ -14,5 +14,9 @@ cp data-example.py data.py
 ```
 python3 main.py
 ```
+5. When finished, delete the `data.py` file to prevent having PHI sitting around on your machine.
+```
+rm data.py
+```
 
 The script will log all rows that have issues with the regex and details on which characters caused the issue. Items will be flagged if they DO NOT match the regex.
